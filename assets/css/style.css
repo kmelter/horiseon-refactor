@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Changed .header div to .nav and made nav tag in html*/
 .nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -75,6 +76,7 @@ p {
     margin-left: 20px;
 }
 
+/* consolidated .search-engine-optimization and .online-reputation-management classes */
 .content div {
     margin-bottom: 20px;
     padding: 50px;
@@ -84,10 +86,12 @@ p {
     color: #ffffff;
 }
 
+/* consolidated img commands for .search-engine-optimization, .online-reputation-management, and .social-media-marketing */
 .content img {
     max-height: 200px;
 }
 
+/* consolidated h2 commands for .search-engine-optimization, .online-reputation-management, and .social-media-marketing */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -104,16 +108,19 @@ p {
     background-color: #2589bd;
 }
 
+/* consolidated .benefit-lead .benefit-brand and .benefit-cost */
 .benefits div {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* consolidated h3 commands for .benefit-lead .benefits-brand and .benefit-cost */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* consolidated all img commands for .benefit-lead .benefit-brand and .benefit-cost */
 .benefits img {
     display: block;
     margin: 10px auto;
