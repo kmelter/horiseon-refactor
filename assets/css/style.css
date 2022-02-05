@@ -79,7 +79,7 @@ p {
     margin-left: 20px;
 }
 
-/* consolidated .search-engine-optimization and .online-reputation-management classes */
+/* consolidated divs for section with class "content" */
 .content div {
     margin-bottom: 20px;
     padding: 50px;
@@ -89,12 +89,12 @@ p {
     color: #ffffff;
 }
 
-/* consolidated img commands for .search-engine-optimization, .online-reputation-management, and .social-media-marketing */
+/* consolidated img commands for section with class "content" */
 .content img {
     max-height: 200px;
 }
 
-/* consolidated h2 commands for .search-engine-optimization, .online-reputation-management, and .social-media-marketing */
+/* consolidated h2 commands for section with class "content" */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
