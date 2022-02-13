@@ -7,7 +7,11 @@ Refactor of Horiseon's landing page to improve functionality.
 * HTML
 * CSS
 
-## Website
+## Website Link
+* https://kmelter.github.io/horiseon-refactor/
+
+## Repository Link
+* https://github.com/kmelter/horiseon-refactor
 
 ## Screenshot
 ![Alt text](./assets/images/horision-refactor-screenshot.png)
